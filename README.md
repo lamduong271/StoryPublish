@@ -1,9 +1,9 @@
 # StoryPublish
 My very first try with backend stack
-## Nodejs
-Express
-MongoDB
-Google authentication
+### Nodejs
+### Express
+### MongoDB
+### Google authentication
 
 
 # live view
